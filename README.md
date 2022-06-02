@@ -17,4 +17,5 @@ In the future, I intend to finish the tab that says (WIP). I'm not sure what I'm
 hoping to use some of the useful responsive buttons included with the template to make something interesting. Also I want to
 add more text to the website (photo titles, artist statements, etc.) but those aren't written quite yet
 
-
+All of the copywrite information is included, but if you want to see where I got the original template from, it is on:
+www.myresponsee.com/free-responsive-website-templates/
